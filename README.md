@@ -1,6 +1,7 @@
 # Home_value_prediction
 
 Problem Description
+
 West Roxbury is a neighborhood in Boston, Massachusetts. The homes (specifically, single family homes) in West Roxbury are frequently assessed by the City of Boston. An assessment of a home takes many variables into consideration such as the year it was built, the square footage, the lot size, etc. The final output of an assessment is a “total value” of the property, which is typically used to calculate the property taxes that the owner must pay each year. 
 
 In this project I have preprocessed the data, and then developed a linear regression model to predict the “total value” of homes.
